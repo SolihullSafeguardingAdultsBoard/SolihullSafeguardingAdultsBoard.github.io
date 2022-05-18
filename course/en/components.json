@@ -1,0 +1,676 @@
+[
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What Does Safeguarding Mean?",
+    "displayTitle": "What Does Safeguarding Mean?",
+    "body": "",
+    "_id": "621e1f687e9262389c5d6faa",
+    "_parentId": "621ce8c1f5970e34889d9e38",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on each heading to learn more",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Definition",
+        "body": "<p>Safeguarding is a term used to describe the actions needed to protect adults at risk from abuse, harm or neglect. It is an important shared priority of all health and social care services and a key responsibility of local authorities.</p><p>Adult safeguarding involves reducing and preventing the risk of significant harm from abuse, exploitation and neglect to enable people to live in safety, free from harm and have their health, wellbeing and rights and choices respected.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What is meant by 'an adult at risk'?",
+        "body": "<p>An adult at risk is defined as any person aged 18 and over who:</p><ul><li>has care and support needs</li><li>is experiencing, or is at risk of, harm or neglect</li><li>is unable to protect themselves because of their care and support needs</li></ul><p>They may be:</p><ul><li>an older person</li><li>a person with a physical disability, a learning disability or a sensory impairment</li><li>someone with mental health needs, including dementia or a personality disorder</li><li>a person with a long-term health condition</li><li>someone who misuses substances or alcohol to the extent that it affects their ability to manage day-to-day living</li><li>victims of sexual exploitation, domestic abuse or modern slavery</li><li>someone with communication difficulties.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Aims of safeguarding",
+        "body": "<ul><li>Stop abuse, harm or neglect wherever possible</li><li>Prevent and reduce the risk of abuse, harm or neglect to adults at risk and with care and support needs wherever possible</li><li>Safeguard adults in a way that supports them in making choices and having control about how they want to live using a person-centred and outcomes approach.&nbsp; Working in a person-centred way is an important preventative measure to help safeguard others.</li><li>Promote an approach that concentrates on improving life, safety and wellbeing of the adults concerned.</li><li>Provide information and support in accessible ways to help people understand how to stay safe. Information and communication must comply with the Accessible Information Standard (AIS).</li><li>You have a duty of care to ensure the safety and wellbeing of the individual and address what has caused the abuse, harm or neglect</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who is responsible for safeguarding?",
+        "body": "<p>One of the most important principles of safeguarding is that it is everyone’s responsibility.</p><p>You must do everything you can to ensure that adults at risk are protected from harm.</p><p>You have a duty to report your concern if you think someone is being abused, harmed, exploited or neglected.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Legislation and Guidance",
+    "displayTitle": "Legislation and Guidance",
+    "body": "",
+    "_id": "62725e01f0267456e8994302",
+    "_parentId": "62725dcdf0267456e8994301",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on each heading to learn more",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What does the law say?",
+        "body": "<p>The Care Act 2014 came into force in England on 1 April 2015.</p><p>The wellbeing principle is the guiding principle of the Care Act 2014 that puts an individual’s wellbeing at the centre of all care and support. The prevention of abuse and neglect is one of the elements identified as contributing to a person’s wellbeing</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Key legislation relating to safeguarding",
+        "body": "<ul><li>Safeguarding Vulnerable People in the Reformed NHS: Accountability and Assurance Framework (NHS England 2015)</li><li>The Care Act 2014</li><li>The Health and Social Care Act 2008 Regulations 2014 and 2015 (UK)</li><li>The Mental Capacity Act 2005 and Mental Capacity (Amendment) Act 2019 (UK)</li><li>Safeguarding Vulnerable Adults Act 2006</li><li>The Equality Act 2010</li><li>The Human Rights Act 1998</li><li>The Public Interest Disclosure Act 1998</li><li>The Data Protection Act 2018 and General Data Protection Regulation 2016</li><li>Mental Health (Northern Ireland) Order 1986 and Mental Capacity Act&nbsp; (NI) 2016</li><li>Adults with Incapacity (Scotland) Act 2000</li><li>The Modern Slavery Act 2015 (UK)</li><li>The Crime and Disorder Act 1998 (England and Wales)</li><li>Safeguarding is governed by local and national guidelines, as well as legislation.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Policies and Procedures",
+        "body": "<p>Your organisation has safeguarding policies and procedures. It is your responsibility to ensure you have read these and that you understand them. You must follow these policies and procedures at all times if you are concerned about the wellbeing of an adult at risk<strong>.</strong></p><p>You can also access further information about safeguarding adults at risk from our website <a href=\"https://www.safeguardingsolihull.org.uk/ssab/\" target=\"_blank\"><span style=\"color:#0000FF\">Home - Solihull Safeguarding Adults Board (safeguardingsolihull.org.uk)</span></a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "narrative",
+    "_classes": "principles",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Principles of Safeguarding",
+    "displayTitle": "Principles of Safeguarding",
+    "body": "",
+    "_id": "628221468c0d8f74f8c39937",
+    "_parentId": "628221468c0d8f74f8c39936",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Swipe through each image",
+    "mobileInstruction": "Swipe through each image",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Empowerment",
+        "_ariaLevel": 0,
+        "body": "<p>People are supported and encouraged to make their own decisions and informed consent</p>",
+        "_graphic": {
+          "src": "course/en/assets/e42d3ed959f30f782919004f29c15e5bd90cf029.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Protection",
+        "_ariaLevel": 2,
+        "body": "<p>Support and representation for those in greatest need</p>",
+        "_graphic": {
+          "src": "course/en/assets/687a54df7bea79f6c8861d0300aa9e1b6ef036c7.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Prevention",
+        "_ariaLevel": 3,
+        "body": "<p>Prevention of neglect, harm and abuse is a primary objective. It is better to take action before harm occurs</p>",
+        "_graphic": {
+          "src": "course/en/assets/54d63b07ec93892eb7b04efaee913e64ac141785.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Proportionality",
+        "_ariaLevel": 4,
+        "body": "<p>Proportionality is about the least intrusive response appropriate to the risk presented</p>",
+        "_graphic": {
+          "src": "course/en/assets/4b56b99ba4f80ed566606428468af7bbe0315bb8.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Partnerships",
+        "_ariaLevel": 5,
+        "body": "<p>Develop local solutions through services working with their communities</p><p>Communities have a part to play in preventing, detecting and reporting neglect and abuse</p>",
+        "_graphic": {
+          "src": "course/en/assets/b9e222d929b21b85376fb1f24f65315e835f0a72.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Accountabiliy",
+        "_ariaLevel": 6,
+        "body": "<p>Accountability is very important and there must be transparency in delivering safeguarding practice</p>",
+        "_graphic": {
+          "src": "course/en/assets/f5cb508b24b52b0b7b66fac763bc4f3c344e3f72.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "roles1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles & Responsibilities",
+    "displayTitle": "Roles & Responsibilities",
+    "body": "<p>&nbsp;</p><p><span style=\"color:#000000\">Whatever your role, it is important that you are aware of your responsibilities.</span></p><p><span style=\"color:#000000\">It is your responsibility to prevent abuse where possible. If you are in a situation where you either suspect abuse or it has been disclosed to you, you are then in a position to report and record it.</span></p><p><span style=\"color:#000000\">You must know and understand your organisation's safeguarding and whistleblowing policies and procedures, how to access support and raise concerns. Ask your manager or safeguarding lead for details on where to obtain these. If you don’t fully understand make sure that you ask for advice and support.</span></p>",
+    "_id": "628367e18c0d8f74f8c39943",
+    "_parentId": "6283676f8c0d8f74f8c39941",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "roles2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles & Responsibilities",
+    "displayTitle": "",
+    "body": "",
+    "_id": "628399558c0d8f74f8c39984",
+    "_parentId": "628399448c0d8f74f8c39983",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on each heading to learn more",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Alerting Services",
+        "body": "<ul><li>You must listen to and take seriously any disclosure of abuse and report criminal acts to the police.</li><li>You should offer support to the person and protect them from immediate harm.</li><li>You should seek medical assistance immediately, if someone has been harmed.</li><li>You should report the concern or abuse to your manager or safeguarding lead straight away.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What should you do if someone discloses abuse?",
+        "body": "<ul><li><span style=\"color:#000000\">Offer them reassurance that you will take what they are saying seriously</span></li><li><span style=\"color:#000000\">Help them to communicate in the best way for them</span></li><li><span style=\"color:#000000\">Tell them you cannot keep what they are telling you a secret, as you have a duty to protect them from harm</span></li><li><span style=\"color:#000000\">Listen carefully to what they are telling you</span></li><li><span style=\"color:#000000\">Don’t ask leading questions</span></li><li><span style=\"color:#000000\">Reassure them that they will be involved in decisions about what will happen</span></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Steps to take if abuse is suspected",
+        "body": "<p><span style=\"color:#000000\">If you are made aware of abuse, or see abuse taking place, then you must act immediately.</span></p><p>&nbsp;</p><ul><li><span style=\"color:#000000\">You must report through formal channels any concerns you have about abuse</span></li><li><span style=\"color:#000000\">You should make an immediate evaluation of the risk and take steps to ensure that the adult is in no immediate danger</span></li><li><span style=\"color:#000000\">In an emergency or if you think someone else may be in immediate danger, or if you feel in immediate danger, dial 999</span></li><li><span style=\"color:#000000\">Adult Social Care operates an out of hours emergency service that you can call.</span></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Types of Abuse",
+    "displayTitle": "Types of Abuse",
+    "body": "<p><strong>The Care Act 2014 identifies the following 10 types of abuse</strong></p>",
+    "_id": "62839bb68c0d8f74f8c3998b",
+    "_parentId": "62839bb68c0d8f74f8c3998a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Swipe through each image",
+    "mobileInstruction": "Swipe through each image",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Physical",
+        "_ariaLevel": 0,
+        "body": "<p>This can include:</p><ul><li>assault</li><li>hitting</li><li>shaking</li><li>pushing</li><li>throwing</li><li>poisoning</li><li>burning or scalding</li><li>drowning</li><li>suffocating</li><li>misuse of medication</li><li>restraint</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/6ec92d33344571ac1024d3e7c9dcce17676a0044.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Domestic",
+        "_ariaLevel": 2,
+        "body": "<p>Domestic abuse can be defined as any incident or pattern of incidents of controlling, coercive or threatening behaviour, violence or abuse, between partners&nbsp;or family members, regardless of gender or sexuality.</p><p>This can encompass but is not limited to the following types of abuse:</p><ul style=\"list-style-type:circle\"><li>psychological</li><li>physical</li><li>sexual</li><li>financial</li><li>emotional</li><li>honour based abuse</li><li>forced marriage</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/2515659754adcee28bc50587b31967968d94db6c.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Sexual",
+        "_ariaLevel": 3,
+        "body": "<p>This can include:</p><ul><li>rape</li><li>sexual assault</li><li>indecent exposure</li><li>sexual harassment</li><li>sexual photography</li><li>subjection to pornography</li><li>being forced to witness&nbsp;sexual acts</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/2617c20ccc735cad1e882f852cf9352dfe5fa303.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Psychological",
+        "_ariaLevel": 4,
+        "body": "<p>This can include:</p><ul><li>emotional abuse</li><li>threats of harm</li><li>deprivation of contact</li><li>blaming, humiliation and controlling behaviour</li><li>intimidation, harassment and verbal abuse</li><li>cyber bullying</li><li>isolation or withdrawal of services.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/c0768ce92d6c3c8a7d869e3bcd53f1c8a2c6ab7c.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Financial",
+        "_ariaLevel": 5,
+        "body": "<p>This can include:</p><ul><li>misuse or misappropriation of a person’s property, possessions or benefits</li><li>theft or undisclosed use of a person’s money</li><li>internet, telemarketing and doorstep scams which often target individuals at risk</li><li>unauthorised changes to formal and legal documents.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/44f3b7f09679c601b3c11e5d4a45cf83b634a37f.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Modern Slavery",
+        "_ariaLevel": 6,
+        "body": "<p>This can include:</p><ul><li>Human trafficking</li><li>Forced and compulsory labour</li><li>Domestic servitude</li><li>Sexual exploitation</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/50fb79701799b8f39d53c19c2fe5ac821a09b593.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Discriminatory",
+        "_ariaLevel": 7,
+        "body": "<p>This can include&nbsp;harassment, slurs or similar treatment based on any of the protected characteristics in the Equality Act 2010.</p><ul><li>race</li><li>age</li><li>pregnancy and maternity</li><li>disability</li><li>sexual orientation</li><li>gender reassignment</li><li>religion or belief</li><li>marriage and civil partnership</li><li>sex</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/7b959a0e749f8538e568508f8ffaac71c4896fa6.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Organisational",
+        "_ariaLevel": 8,
+        "body": "<p>This includes&nbsp;the mistreatment of people brought about by poor or inadequate care or support.</p><p>It can be through neglect or poor professional practice as a result of the structure, policies, processes and practices.</p><p>It can happen in settings such as a hospital,&nbsp;residential care, in a person’s own home or in a community setting</p>",
+        "_graphic": {
+          "src": "course/en/assets/5a2a3f8161c7c26782d12fb84d07a4f20b828460.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Neglect & Acts of Omission",
+        "_ariaLevel": 9,
+        "body": "<p>This includes&nbsp;ignoring medical, emotional or physical care needs, failure to provide access to appropriate health, care and support or educational services, the withholding of the necessities of life, such as medication, adequate nutrition and heating</p>",
+        "_graphic": {
+          "src": "course/en/assets/6c145faea698761a511a852e5d5dc2268abd3b0e.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Self-Neglect",
+        "_ariaLevel": 10,
+        "body": "<p>This includes a refusal or failure to provide oneself with adequate:</p><ul style=\"list-style-type:circle\"><li>personal hygiene</li><li>food and drink</li><li>clothing</li><li>living conditions</li><li>medication.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/9a69f3b7a955615876d51c56fd43bf91155d0645.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "othertypes",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Other Types of Abuse",
+    "displayTitle": "Other Types of Abuse",
+    "body": "",
+    "_id": "6283c7d08c0d8f74f8c399ca",
+    "_parentId": "6283c60f8c0d8f74f8c399c4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on each heading to learn more",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "County Lines",
+        "body": "<p><span style=\"color:#000000\">County lines is where gangs and organised criminal networks move illegal drugs, money or weapons using dedicated mobile phone lines and exploit adults, children and young people at risk.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Forced Marriage",
+        "body": "<p><span style=\"color:#000000\">A forced marriage is where one or both people do not consent to the marriage.&nbsp;Physical pressure to marry (for example, threats, physical violence or sexual violence) or emotional and psychological pressure (eg if you’re made to feel like you’re bringing shame on your family) may be used.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Honour Based Abuse",
+        "body": "<p><span style=\"color:#000000\">Honour based abuse refers to practices used to control behaviour within families in order to protect perceived cultural and religious beliefs or 'honour'. The term relates to the offender’s interpretation of the motivation for their actions.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Female Genital Mutilation",
+        "body": "<p><span style=\"color:#000000\">Female genital mutilation (FGM) or female circumcision, is a procedure where the female genitals are deliberately cut, injured or changed, but there's no medical reason for this to be done.&nbsp; It’s usually carried out on young girls between infancy and 15.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Controlling and Coercive Behaviour",
+        "body": "<p><span style=\"color:#000000\">Controlling behaviour is a range of acts to make a person dependent or isolated from support. Coercive behaviour is an act or a pattern of acts of assault, threats, humiliation and intimidation or other abuse that is used to harm, punish, or frighten their victim.&nbsp; It’s at the root of domestic abuse and understanding it is very important for effective safeguarding practice, risk and safety planning.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Images",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284d3db8c0d8f74f8c399d7",
+    "_parentId": "6284d38d8c0d8f74f8c399d6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/24506700f773110854365e87bf9234c0c52a47ee.png",
+      "small": "course/en/assets/c785bf07ae73c63db699b82649a8e401b47619ee.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Making Safeguarding Personal",
+    "displayTitle": "",
+    "body": "<p>The Care Act 2014 wellbeing principle makes it clear that local authorities have a duty to ensure that the wellbeing of individuals is at the centre of everything it does. The Act introduced Making Safeguarding Personal (MSP) to ensure that any safeguarding investigation or concern focuses on the person’s wellbeing, views and wishes - involving them as much as possible.</p><p>Making Safeguarding Personal promotes person-centred outcomes and a personalised approach to safeguarding led by the individual.&nbsp;The person is supported at each stage of the safeguarding process to say what they would like to be different and change, such as not having contact with a person who poses a risk to them.</p><p>The approach is about talking through with the person their options, the implications and what they want to do about their situation. Asking questions such as:</p><ul><li>“What do you want to happen?”</li><li>&nbsp;“What is important to you?”&nbsp;</li><li>“Is there anything that you do not want to happen?\"</li></ul>",
+    "_id": "6284d3e08c0d8f74f8c399d8",
+    "_parentId": "6284d38d8c0d8f74f8c399d6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "stacklist",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Mental Capacity Act",
+    "displayTitle": "Mental Capacity Act",
+    "body": "",
+    "_id": "6284dd608c0d8f74f8c399ef",
+    "_parentId": "6284dcf48c0d8f74f8c399ed",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>If someone discloses abuse to you then you need to bear in mind their mental capacity before deciding on a course of action.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>If the adult has the mental capacity to make informed decisions about their safety, seek their consent.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>If they do not want any action to be taken and there are no public or vital interest considerations, they should still be given information about where to get help. This is in case they change their mind or if the abuse or neglect continues and they subsequently want support to promote their safety.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Where an adult lacks capacity to make a decision, then the adult’s representative or advocate must be consulted.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>The local authority must provide an independent advocate where a person has ‘substantial difficulty’ and does not have a suitable advocate.</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Click here to begin",
+      "continueText": "Next"
+    }
+  }
+]
