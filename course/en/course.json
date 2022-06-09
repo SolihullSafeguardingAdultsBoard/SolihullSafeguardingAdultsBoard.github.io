@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 9,
+  "_latestTrackingId": 19,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -169,15 +169,15 @@
     "_items": {
       "item-color": "#36cde8",
       "item-color-inverted": "#ffffff",
-      "item-color-hover": "",
+      "item-color-hover": "#0f5293",
       "item-color-inverted-hover": "",
-      "item-color-selected": "",
+      "item-color-selected": "#0f5293",
       "item-color-inverted-selected": "",
-      "visited": "#727272",
+      "visited": "#0f5293",
       "visited-inverted": "#ffffff"
     },
     "_buttons": {
-      "btn-color": "#f21717",
+      "btn-color": "#0f5293",
       "btn-color-inverted": "#ffffff",
       "btn-color-hover": "",
       "btn-color-inverted-hover": "",

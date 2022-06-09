@@ -376,7 +376,7 @@
         "_ariaLevel": 2,
         "body": "<p>Domestic abuse can be defined as any incident or pattern of incidents of controlling, coercive or threatening behaviour, violence or abuse, between partners&nbsp;or family members, regardless of gender or sexuality.</p><p>This can encompass but is not limited to the following types of abuse:</p><ul style=\"list-style-type:circle\"><li>psychological</li><li>physical</li><li>sexual</li><li>financial</li><li>emotional</li><li>honour based abuse</li><li>forced marriage</li></ul>",
         "_graphic": {
-          "src": "course/en/assets/2515659754adcee28bc50587b31967968d94db6c.png",
+          "src": "course/en/assets/26ca4e0b06456e9f502c546e4307779a02306f83.png",
           "alt": "",
           "attribution": ""
         },
@@ -464,7 +464,7 @@
         "_ariaLevel": 10,
         "body": "<p>This includes a refusal or failure to provide oneself with adequate:</p><ul style=\"list-style-type:circle\"><li>personal hygiene</li><li>food and drink</li><li>clothing</li><li>living conditions</li><li>medication.</li></ul>",
         "_graphic": {
-          "src": "course/en/assets/9a69f3b7a955615876d51c56fd43bf91155d0645.png",
+          "src": "course/en/assets/171fad03997c6d0a8f6a6c037e2372af64084cbe.png",
           "alt": "",
           "attribution": ""
         },
@@ -672,5 +672,277 @@
       "startText": "Click here to begin",
       "continueText": "Next"
     }
+  },
+  {
+    "_component": "text",
+    "_classes": "principles",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>Welcome to SSAB e-learning...............</p>",
+    "_id": "62a20d27c7c56a0c1c442d6a",
+    "_parentId": "62a20d1ac7c56a0c1c442d69",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a20f08c7c56a0c1c442d7b",
+    "_parentId": "62a20e55c7c56a0c1c442d75",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a20fb5c7c56a0c1c442d93",
+    "_parentId": "62a20fb5c7c56a0c1c442d8f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a21054c7c56a0c1c442da6",
+    "_parentId": "62a21054c7c56a0c1c442da2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a21382c7c56a0c1c442dc9",
+    "_parentId": "62a21382c7c56a0c1c442dc8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a21651c7c56a0c1c442dd3",
+    "_parentId": "62a21651c7c56a0c1c442dd2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a21865c7c56a0c1c442dde",
+    "_parentId": "62a21865c7c56a0c1c442ddd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a2189bc7c56a0c1c442de9",
+    "_parentId": "62a2189bc7c56a0c1c442de8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a222f1c7c56a0c1c442df4",
+    "_parentId": "62a222f1c7c56a0c1c442df3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "roles1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Information Sharing",
+    "displayTitle": "Information Sharing",
+    "body": "<p><span style=\"color:#000000\">Good information sharing is at the heart of good safeguarding practice.</span></p><p>&nbsp;</p><p><span style=\"color:#000000\">Safeguarding Adults Reviews (SARs) frequently highlight failures between safeguarding partners, in communicating and working together. Such failures can lead to serious abuse and harm, and, in some cases, even death.</span></p><p>&nbsp;</p><p><span style=\"color:#000000\">Wherever possible you should obtain consent before sharing information. Remember to record the details of when and how consent is obtained. However, you can share information without consent if it is necessary to protect an adult or to prevent a crime. In some cases, professionals can be over-cautious about sharing information, particularly if it is against the wishes of the individual concerned.</span></p><p>&nbsp;</p><p><span style=\"color:#000000\">Information sharing can help:</span></p><ul><li><span style=\"color:#000000\">To help identify people who may pose a risk to others</span></li><li><span style=\"color:#000000\">To prevent serious harm or death</span></li><li><span style=\"color:#000000\">To help people access the right kind of support to reduce risk and promote wellbeing</span></li><li><span style=\"color:#000000\">To reveal patterns of abuse that were previously undetected and that could identify others at risk of abuse</span></li><li><span style=\"color:#000000\">To enable early interventions and prevent the escalation of risk</span></li><li><span style=\"color:#000000\">To maintain and improve good practice in adult safeguarding</span></li><li><span style=\"color:#000000\">To coordinate effective and efficient responses</span></li></ul>",
+    "_id": "62a22326c7c56a0c1c442df9",
+    "_parentId": "62a22326c7c56a0c1c442df7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
   }
 ]

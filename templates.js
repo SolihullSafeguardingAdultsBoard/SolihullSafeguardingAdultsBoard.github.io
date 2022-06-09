@@ -779,6 +779,10 @@ this["Handlebars"]["templates"]["shadow"] = Handlebars.template({"compiler":[8,"
     return "<div id=\"shadow\" class=\"shadow js-shadow u-display-none\"></div>\r\n";
 },"useData":true});
 
+this["Handlebars"]["templates"]["blank"] = Handlebars.template({"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<div class=\"component__inner blank__inner\"></div>\n";
+},"useData":true});
+
 this["Handlebars"]["templates"]["narrative"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     return " narrative__text-controls";
 },"3":function(container,depth0,helpers,partials,data) {

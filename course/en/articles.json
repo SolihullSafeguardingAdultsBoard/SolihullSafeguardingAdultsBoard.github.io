@@ -1,5 +1,47 @@
 [
   {
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a20d09c7c56a0c1c442d63",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": "cover",
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
     "title": "What Does Safeguarding Mean?",
     "displayTitle": "",
     "body": "",
@@ -42,6 +84,48 @@
     }
   },
   {
+    "title": "Image 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a20e40c7c56a0c1c442d6c",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/401a9a067cca4b538edd9e8555f03142ed172e02.png",
+        "_medium": "course/en/assets/401a9a067cca4b538edd9e8555f03142ed172e02.png",
+        "_small": "course/en/assets/401a9a067cca4b538edd9e8555f03142ed172e02.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
     "title": "Principles of Safeguarding",
     "displayTitle": "",
     "body": "",
@@ -70,6 +154,48 @@
         "_large": "",
         "_medium": "",
         "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Image 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a20fb5c7c56a0c1c442d8b",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/ccbdd92feb178b9dca29b0bbc3664e50e96b27b7.jpg",
+        "_medium": "course/en/assets/ccbdd92feb178b9dca29b0bbc3664e50e96b27b7.jpg",
+        "_small": "course/en/assets/ccbdd92feb178b9dca29b0bbc3664e50e96b27b7.jpg"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -126,6 +252,48 @@
     }
   },
   {
+    "title": "Image 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a21054c7c56a0c1c442d9e",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/356f142f6a1a1ca319b3e71f11e038b164b27d70.jpg",
+        "_medium": "course/en/assets/356f142f6a1a1ca319b3e71f11e038b164b27d70.jpg",
+        "_small": "course/en/assets/356f142f6a1a1ca319b3e71f11e038b164b27d70.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
     "title": "Roles & Responsibilities",
     "displayTitle": "",
     "body": "",
@@ -154,6 +322,48 @@
         "_large": "",
         "_medium": "",
         "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Image 4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a21382c7c56a0c1c442dc4",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/2f8a4be1759724f5c2048d8169ad2e85e88fcc40.jpg",
+        "_medium": "course/en/assets/2f8a4be1759724f5c2048d8169ad2e85e88fcc40.jpg",
+        "_small": "course/en/assets/2f8a4be1759724f5c2048d8169ad2e85e88fcc40.jpg"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -210,6 +420,48 @@
     }
   },
   {
+    "title": "Image 5",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a21651c7c56a0c1c442dce",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/d0c22936cbd72dab763c45d248b36fef43cb13ea.png",
+        "_medium": "course/en/assets/d0c22936cbd72dab763c45d248b36fef43cb13ea.png",
+        "_small": "course/en/assets/d0c22936cbd72dab763c45d248b36fef43cb13ea.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
     "title": "Other Types of Abuse",
     "displayTitle": "",
     "body": "",
@@ -238,6 +490,48 @@
         "_large": "",
         "_medium": "",
         "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Image 6",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a21865c7c56a0c1c442dd9",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/2c90011c0d47536d39795c68c180103a6241a9a6.png",
+        "_medium": "course/en/assets/2c90011c0d47536d39795c68c180103a6241a9a6.png",
+        "_small": "course/en/assets/2c90011c0d47536d39795c68c180103a6241a9a6.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -294,6 +588,48 @@
     }
   },
   {
+    "title": "Image 7",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a2189bc7c56a0c1c442de4",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/d265f8767ba3e36cde7d288fb031509d3fc04dbd.png",
+        "_medium": "course/en/assets/d265f8767ba3e36cde7d288fb031509d3fc04dbd.png",
+        "_small": "course/en/assets/d265f8767ba3e36cde7d288fb031509d3fc04dbd.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
     "title": "Mental Capacity Act",
     "displayTitle": "",
     "body": "",
@@ -306,6 +642,90 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "6284dcf48c0d8f74f8c399ec",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Image 8",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a222f1c7c56a0c1c442def",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/28c9cdf8929940e4c43544075861f1fcbeee7430.png",
+        "_medium": "course/en/assets/28c9cdf8929940e4c43544075861f1fcbeee7430.png",
+        "_small": "course/en/assets/28c9cdf8929940e4c43544075861f1fcbeee7430.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Information Sharing",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62a22326c7c56a0c1c442df6",
     "_parentId": "621ce8c1f5970e34889d9e36",
     "_type": "article",
     "_onScreen": {
