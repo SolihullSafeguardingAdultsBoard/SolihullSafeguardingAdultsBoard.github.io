@@ -1012,6 +1012,19 @@ this["Handlebars"]["templates"]["stacklist"] = Handlebars.template({"1":function
     + "</button>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>\n";
 },"usePartial":true,"useData":true});
 
+this["Handlebars"]["templates"]["close"] = Handlebars.template({"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "<button class=\"btn-icon nav__btn nav__close-btn\" data-event=\"closeButton\" aria-label=\""
+    + container.escapeExpression(container.lambda(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? lookupProperty(depth0,"_globals") : depth0)) != null ? lookupProperty(stack1,"_extensions") : stack1)) != null ? lookupProperty(stack1,"_close") : stack1)) != null ? lookupProperty(stack1,"closeButton") : stack1), depth0))
+    + "\">\n  <div class=\"icon\"></div>\n</button>\n";
+},"useData":true});
+
 this["Handlebars"]["templates"]["pageLevelProgress"] = Handlebars.template({"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, lookupProperty = container.lookupProperty || function(parent, propertyName) {
         if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {

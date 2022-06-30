@@ -44,59 +44,9 @@
     "description": "Physical",
     "tags": []
   },
-  "2617c20ccc735cad1e882f852cf9352dfe5fa303.png": {
-    "title": "Sexual Abuse.png",
-    "description": "Sexual",
-    "tags": []
-  },
-  "c0768ce92d6c3c8a7d869e3bcd53f1c8a2c6ab7c.png": {
-    "title": "Psychological Abuse.png",
-    "description": "Psychological",
-    "tags": []
-  },
-  "44f3b7f09679c601b3c11e5d4a45cf83b634a37f.png": {
-    "title": "Financial Abuse.png",
-    "description": "Financial",
-    "tags": []
-  },
-  "50fb79701799b8f39d53c19c2fe5ac821a09b593.png": {
-    "title": "Modern Slavery.png",
-    "description": "Mod Slavery",
-    "tags": []
-  },
-  "7b959a0e749f8538e568508f8ffaac71c4896fa6.png": {
-    "title": "Discriminatory Abuse.png",
-    "description": "Discriminatory",
-    "tags": []
-  },
-  "5a2a3f8161c7c26782d12fb84d07a4f20b828460.png": {
-    "title": "Organisational Abuse.png",
-    "description": "Organisational",
-    "tags": []
-  },
-  "6c145faea698761a511a852e5d5dc2268abd3b0e.png": {
-    "title": "Neglect.png",
-    "description": "Neglect",
-    "tags": []
-  },
   "c785bf07ae73c63db699b82649a8e401b47619ee.png": {
     "title": "Making Safeguarding Personal.png",
     "description": "MSP",
-    "tags": []
-  },
-  "24506700f773110854365e87bf9234c0c52a47ee.png": {
-    "title": "Making Safeguarding Personal 4.png",
-    "description": "MSP4",
-    "tags": []
-  },
-  "26ca4e0b06456e9f502c546e4307779a02306f83.png": {
-    "title": "Domestic (2).png",
-    "description": "Domestic 2",
-    "tags": []
-  },
-  "171fad03997c6d0a8f6a6c037e2372af64084cbe.png": {
-    "title": "Self Neglect (2).png",
-    "description": "Self Neglect 2",
     "tags": []
   },
   "ccbdd92feb178b9dca29b0bbc3664e50e96b27b7.jpg": {
@@ -137,6 +87,86 @@
   "28c9cdf8929940e4c43544075861f1fcbeee7430.png": {
     "title": "SSAB Image 10.png",
     "description": "Image 10",
+    "tags": []
+  },
+  "16b1330b8a11761eda4a411ad17a5aee38fac82f.png": {
+    "title": "1. Physical (1280x1160).png",
+    "description": "1. Physical (1280x1160).png",
+    "tags": []
+  },
+  "238e3580cb3ece93a5927dc46489bbf9dc9bb115.png": {
+    "title": "2. Domestic (1280x1160).png",
+    "description": "2. Domestic (1280x1160).png",
+    "tags": []
+  },
+  "b990d1836bd3eb018c9119711606f1b7c1b22350.png": {
+    "title": "3. Sexual (1280x1160).png",
+    "description": "3. Sexual (1280x1160).png",
+    "tags": []
+  },
+  "50fdb298ec6a01e08165fb7d5b24f7dbc8a85e32.png": {
+    "title": "4. Psychological (1280x1160).png",
+    "description": "4. Psychological (1280x1160).png",
+    "tags": []
+  },
+  "7b87d969d02a1df85016c542c4450f8e6eafba99.png": {
+    "title": "5. Financial (1280x1160).png",
+    "description": "5. Financial (1280x1160).png",
+    "tags": []
+  },
+  "e6df931775c4a25d44a9b66c446b448e24b04c08.png": {
+    "title": "6. Modern Slavery (1280x1160).png",
+    "description": "6. Modern Slavery (1280x1160).png",
+    "tags": []
+  },
+  "be3d75da5f1ef0a149e9911814471d5643afc51d.png": {
+    "title": "7. Discriminatory (1280x1160).png",
+    "description": "7. Discriminatory (1280x1160).png",
+    "tags": []
+  },
+  "92d7787dee80590b72a9ce624b8694c0d20984ab.png": {
+    "title": "8. Organisational (1280x1160).png",
+    "description": "8. Organisational (1280x1160).png",
+    "tags": []
+  },
+  "e7fc3509c6e1882225b4c9c7e5ea9cea0fe99253.png": {
+    "title": "9. Neglect (1280x1160).png",
+    "description": "9. Neglect (1280x1160).png",
+    "tags": []
+  },
+  "b1c49cc555fba285d29322688e33dc9d69cb7438.png": {
+    "title": "10. Self Neglect (1280x1160).png",
+    "description": "10. Self Neglect (1280x1160).png",
+    "tags": []
+  },
+  "dae421accbc3152dfb3b39575b72d184996bb234.png": {
+    "title": "Whistleblowing (900x900).png",
+    "description": "Whistleblowing (900x900).png",
+    "tags": []
+  },
+  "a16fddc587859dfa23aaa2b54395f11fee626723.png": {
+    "title": "Banner Equality & Inlcusion.png",
+    "description": "Banner Equality & Inlcusion.png",
+    "tags": []
+  },
+  "7866b67097c169dbef738aebcfca8d6ac8302634.png": {
+    "title": "Banner Summary.png",
+    "description": "Banner Summary.png",
+    "tags": []
+  },
+  "fafc87d6af543c9cdaccd9b1d00dd35a84c2b8bb.png": {
+    "title": "Banner Whistleblowing.png",
+    "description": "Banner Whistleblowing.png",
+    "tags": []
+  },
+  "2408662498364a58d4c9bbe67b99217f89fcd573.png": {
+    "title": "Banner Where Takes Place.png",
+    "description": "Banner Where Takes Place.png",
+    "tags": []
+  },
+  "642766489084944809eaa067dce2b09d7925f801.png": {
+    "title": "Header.png",
+    "description": "Header.png",
     "tags": []
   }
 }

@@ -529,9 +529,9 @@
     },
     "_vanilla": {
       "_backgroundImage": {
-        "_large": "course/en/assets/2c90011c0d47536d39795c68c180103a6241a9a6.png",
-        "_medium": "course/en/assets/2c90011c0d47536d39795c68c180103a6241a9a6.png",
-        "_small": "course/en/assets/2c90011c0d47536d39795c68c180103a6241a9a6.png"
+        "_large": "course/en/assets/2408662498364a58d4c9bbe67b99217f89fcd573.png",
+        "_medium": "course/en/assets/2408662498364a58d4c9bbe67b99217f89fcd573.png",
+        "_small": "course/en/assets/2408662498364a58d4c9bbe67b99217f89fcd573.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -546,7 +546,7 @@
     }
   },
   {
-    "title": "Making Safeguarding Personal",
+    "title": "Where Abuse Can Take Place",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -574,6 +574,174 @@
         "_large": "course/en/assets/5b228add4f4ebbeaa22a9066c1fd351f66d30f2a.png",
         "_medium": "course/en/assets/5b228add4f4ebbeaa22a9066c1fd351f66d30f2a.png",
         "_small": "course/en/assets/5b228add4f4ebbeaa22a9066c1fd351f66d30f2a.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Image 6",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62bdac93593e5f34e070a185",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/2c90011c0d47536d39795c68c180103a6241a9a6.png",
+        "_medium": "course/en/assets/2c90011c0d47536d39795c68c180103a6241a9a6.png",
+        "_small": "course/en/assets/2c90011c0d47536d39795c68c180103a6241a9a6.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Dignity and Respect",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62bdac85593e5f34e070a181",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Image 7",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62bdadbc593e5f34e070a192",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/a16fddc587859dfa23aaa2b54395f11fee626723.png",
+        "_medium": "course/en/assets/a16fddc587859dfa23aaa2b54395f11fee626723.png",
+        "_small": "course/en/assets/a16fddc587859dfa23aaa2b54395f11fee626723.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Equality and Inclusion",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62bdadab593e5f34e070a18c",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -630,7 +798,7 @@
     }
   },
   {
-    "title": "Mental Capacity Act",
+    "title": "Mental Capacity",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -726,6 +894,174 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "62a22326c7c56a0c1c442df6",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Image 9",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62bc48f170568d2d24a15599",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/fafc87d6af543c9cdaccd9b1d00dd35a84c2b8bb.png",
+        "_medium": "course/en/assets/fafc87d6af543c9cdaccd9b1d00dd35a84c2b8bb.png",
+        "_small": "course/en/assets/fafc87d6af543c9cdaccd9b1d00dd35a84c2b8bb.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Whistleblowing",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62bc4ddb70568d2d24a155ac",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Image 9",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62bc4ea270568d2d24a155ba",
+    "_parentId": "621ce8c1f5970e34889d9e36",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/7866b67097c169dbef738aebcfca8d6ac8302634.png",
+        "_medium": "course/en/assets/7866b67097c169dbef738aebcfca8d6ac8302634.png",
+        "_small": "course/en/assets/7866b67097c169dbef738aebcfca8d6ac8302634.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Outro/Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62bc499c70568d2d24a155a3",
     "_parentId": "621ce8c1f5970e34889d9e36",
     "_type": "article",
     "_onScreen": {

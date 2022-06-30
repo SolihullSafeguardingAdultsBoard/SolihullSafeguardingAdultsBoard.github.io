@@ -1,10 +1,10 @@
 [
   {
-    "title": "Safeguarding Awareness",
-    "displayTitle": "Safeguarding Awareness",
+    "title": "SSAB Safeguarding Awareness",
+    "displayTitle": " ",
     "body": "",
     "_classes": "",
-    "subtitle": "",
+    "subtitle": " ",
     "pageBody": "",
     "instruction": "",
     "_htmlClasses": "",
@@ -61,17 +61,17 @@
       },
       "_pageHeader": {
         "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
+          "_large": "course/en/assets/642766489084944809eaa067dce2b09d7925f801.png",
+          "_medium": "course/en/assets/642766489084944809eaa067dce2b09d7925f801.png",
+          "_small": "course/en/assets/642766489084944809eaa067dce2b09d7925f801.png"
         },
         "_backgroundStyles": {
           "_backgroundRepeat": null,
-          "_backgroundSize": null,
+          "_backgroundSize": "contain",
           "_backgroundPosition": null
         },
         "_minimumHeights": {
-          "_large": 100,
+          "_large": 140,
           "_medium": null,
           "_small": null
         }
